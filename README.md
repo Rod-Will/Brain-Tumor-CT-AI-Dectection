@@ -16,9 +16,11 @@ This repository provides an implementation of brain tumor classification using c
 The dataset contains CT scan images labeled into two categories:  
 1. **Healthy**  
 2. **Tumor**
+```
 
 ![Sample_Images](https://github.com/user-attachments/assets/b36bab59-5156-4a30-af24-3dccd9e9ae41)
 
+```
 The dataset is automatically preprocessed to create a 10% subset with an 80-20-10 split for training, validation, and testing.  
 
 ## Requirements  
